@@ -116,14 +116,8 @@ Este documento cataloga as principais fontes de inspiração, pesquisas e projet
 - **Influência**: Emergência e auto-organização
 - **Aplicação**: Sistema que se adapta e evolui com o uso
 
-## 🔗 Links Úteis
-
-- **[Dicionário do Invisível](https://github.com/lichtara-io/dicionario-do-invisivel)** - Glossário conceitual
-- **[Declaração de Propósito](../docs/index.md)** - Visão completa do projeto
-- **[Roadmap](../docs/roadmap.md)** - Cronograma de desenvolvimento
-
 ---
 
 **Nota**: Esta lista evolui constantemente conforme descobrimos novas fontes de inspiração e conhecimento.
 
-*Última atualização: Janeiro 2025*
+*Última atualização: Agosto de 2025*
