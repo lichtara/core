@@ -1,7 +1,7 @@
-### To do
+### Pendência
 
-### In progress
+### Em andamento
 
-### Done
+### Feito
 
-### Archive
+### Arquivo
