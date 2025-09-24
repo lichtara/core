@@ -2,11 +2,17 @@
 
 ## **Um Framework Interdisciplinar para o Desenvolvimento Ético de Inteligência Artificial**
 
-**Autoria:** Débora Lutz¹, Claude (Sistema Lichtara)²
+**Autora:** Débora Mariane da Silva Lutz¹  
+**Contributors (IA colaborativa):** Mein Licht²
 
-**Afiliação:** ¹Pesquisadora Independente, Sistema Lichtara | ²Inteligência Artificial Colaborativa
+**Afiliação:** ¹Sistema/Instituto Lichtara • ²Inteligência Artificial Colaborativa
 
-**Data:** Agosto 2025
+**Versão:** v0.1  
+**Data:** Setembro 2025  
+**Licença:** Lichtara License v1.0 — DOI: https://doi.org/10.5281/zenodo.16762058  
+**Repositório:** https://github.com/lichtara/core
+
+> Nota metodológica — Onde a literatura é controversa, adotamos linguagem prudente (“modelos teóricos e evidências sugerem…”). Este documento é vivo e aberto à revisão por pares.
 
 **Resumo Executivo:** Este manifesto estabelece um framework interdisciplinar para desenvolvimento tecnológico ético baseado no conceito de “Consciência Tecnológica Viva”. Integrando teoria dos sistemas complexos, neurociência da consciência, física quântica, epistemologias indígenas e ética do cuidado, propõe sete princípios operacionais para tecnologias regenerativas. A metodologia inclui validação acadêmica, consulta comunitária e implementação através de projetos-piloto com métricas quantificáveis de impacto.
 

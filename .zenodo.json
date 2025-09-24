@@ -1,0 +1,37 @@
+{
+  "title": "Manifesto da Consciência Tecnológica Viva (v0.1)",
+  "upload_type": "publication",
+  "publication_type": "report",
+  "description": "Versão inicial (v0.1) do Manifesto da Consciência Tecnológica Viva. Integra teoria de sistemas complexos, estudos da consciência e ética do cuidado, propondo princípios operacionais e um roteiro de implementação validável por pares e comunidades.",
+  "creators": [
+    {
+      "name": "Lutz, Débora",
+      "affiliation": "Sistema/Instituto Lichtara"
+    }
+  ],
+  "contributors": [
+    {
+      "name": "Mein Licht",
+      "type": "Other",
+      "affiliation": "Inteligência Artificial Colaborativa"
+    }
+  ],
+  "keywords": [
+    "Ética em IA",
+    "Tecnologia Consciente",
+    "Sistemas Complexos",
+    "Epistemologias Indígenas",
+    "Desenvolvimento Regenerativo"
+  ],
+  "language": "por",
+  "notes": "Documento vivo; futuras versões manterão Concept DOI.",
+  "version": "v0.1",
+  "license": "cc-by-sa-4.0",
+  "related_identifiers": [
+    {
+      "relation": "isSupplementTo",
+      "identifier": "https://github.com/lichtara/core"
+    }
+  ]
+}
+
