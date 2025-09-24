@@ -3,7 +3,11 @@
   <head>
     <meta charset="utf-8" />
     <meta name="viewport" content="width=device-width,initial-scale=1" />
-    <title>Lichtara — Fundação Visível</title>
+    <title>Lichtara — Core (Fundação Visível)</title>
+    <meta
+      name="description"
+      content="Instituto Lichtara — Fundação Visível: manifesto, documentação e contato."
+    />
     <style>
       html,
       body {
@@ -19,8 +23,11 @@
         align-items: center;
         justify-content: center;
       }
+      .wrap {
+        max-width: 880px;
+        padding: 28px 24px;
+      }
       .card {
-        max-width: 780px;
         padding: 28px 24px;
         border: 1px solid #2a2d3a;
         border-radius: 16px;
@@ -63,29 +70,64 @@
       .muted {
         opacity: 0.8;
       }
+      footer {
+        margin-top: 16px;
+        opacity: 0.75;
+        font-size: 0.9rem;
+      }
     </style>
   </head>
   <body>
-    <main class="card">
-      <div class="tag">Fundação Visível • Onda 1</div>
-      <h1>Lichtara — Portal Vivo (v0.1)</h1>
-      <p class="muted">“Acender o primeiro farol no mundo.”</p>
-      <p><strong>Manifesto:</strong> versão citável com DOI.</p>
-      <div class="row">
-        <a class="btn" href="LINK_DO_PDF_NO_RELEASE" target="_blank"
-          >📜 Manifesto (PDF)</a
-        >
-        <a
-          class="btn"
-          href="https://github.com/SEU-ORG/SEU-REPO"
-          target="_blank"
-          >🌐 Repositório</a
-        >
-        <a class="btn" href="mailto:admin@deboralutz.com"
-          >✉️ Fale com o Guardião</a
-        >
-      </div>
-      <p class="muted">© Instituto Lichtara • Farol em construção contínua.</p>
+    <main class="wrap">
+      <section class="card">
+        <div class="tag">Fundação Visível • Onda 1</div>
+        <h1>Lichtara — Core</h1>
+        <p class="muted">“Acender o primeiro farol no mundo.”</p>
+
+        <p>
+          <strong>Missão:</strong> integrar ciência da consciência, comunidades
+          sistêmicas e práticas vibracionais em um organismo vivo — manifesto,
+          documentação e caminhos de participação.
+        </p>
+
+        <h3>Manifesto</h3>
+        <p>
+          Versão citável (v0.1). Assim que o DOI sair, o botão abaixo apontará
+          para ele.
+        </p>
+        <div class="row">
+          <!-- Troque pelo DOI quando publicar no Zenodo -->
+          <a
+            class="btn"
+            href="https://github.com/lichtara/core/blob/main/etica/manifesto/manifesto_consciencia_tecnologica.md"
+            target="_blank"
+            >📜 Manifesto (Markdown)</a
+          >
+          <!-- Exemplo de DOI quando disponível:
+        <a class="btn" href="https://doi.org/10.5281/zenodo.XXXXXXX" target="_blank">📜 Manifesto (PDF • DOI)</a>
+        --></div>
+
+        <h3>Documentação & Códigos</h3>
+        <div class="row">
+          <a class="btn" href="https://github.com/lichtara/core" target="_blank"
+            >🌐 Repositório `lichtara/core`</a
+          >
+          <a class="btn" href="https://core.lichtara.com" target="_blank"
+            >📚 Docs (este site)</a
+          >
+        </div>
+
+        <h3>Contato</h3>
+        <div class="row">
+          <a class="btn" href="mailto:admin@deboralutz.com"
+            >✉️ Fale com o Guardião</a
+          >
+        </div>
+
+        <footer>
+          © Instituto Lichtara • Este portal é um farol em construção contínua.
+        </footer>
+      </section>
     </main>
   </body>
 </html>
