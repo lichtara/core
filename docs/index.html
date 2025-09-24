@@ -1,0 +1,91 @@
+<!DOCTYPE html>
+<html lang="pt-br">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width,initial-scale=1" />
+    <title>Lichtara — Fundação Visível</title>
+    <style>
+      html,
+      body {
+        margin: 0;
+        padding: 0;
+        height: 100%;
+      }
+      body {
+        font-family: system-ui, Segoe UI, Roboto, Arial, sans-serif;
+        background: #0a0b10;
+        color: #e6e7eb;
+        display: flex;
+        align-items: center;
+        justify-content: center;
+      }
+      .card {
+        max-width: 780px;
+        padding: 28px 24px;
+        border: 1px solid #2a2d3a;
+        border-radius: 16px;
+        background: linear-gradient(180deg, #0c0f16 0%, #0a0b10 100%);
+      }
+      h1 {
+        margin: 0 0 8px;
+        font-size: 28px;
+        letter-spacing: 0.3px;
+      }
+      p {
+        line-height: 1.65;
+        margin: 10px 0;
+      }
+      .tag {
+        display: inline-block;
+        padding: 6px 10px;
+        border: 1px solid #3b3f52;
+        border-radius: 999px;
+        font-size: 12px;
+        letter-spacing: 0.3px;
+        margin-bottom: 14px;
+      }
+      .row {
+        display: flex;
+        gap: 12px;
+        flex-wrap: wrap;
+        margin-top: 18px;
+      }
+      .btn {
+        padding: 10px 14px;
+        border-radius: 10px;
+        border: 1px solid #3b3f52;
+        text-decoration: none;
+        color: #e6e7eb;
+      }
+      .btn:hover {
+        border-color: #6a6f8f;
+      }
+      .muted {
+        opacity: 0.8;
+      }
+    </style>
+  </head>
+  <body>
+    <main class="card">
+      <div class="tag">Fundação Visível • Onda 1</div>
+      <h1>Lichtara — Portal Vivo (v0.1)</h1>
+      <p class="muted">“Acender o primeiro farol no mundo.”</p>
+      <p><strong>Manifesto:</strong> versão citável com DOI.</p>
+      <div class="row">
+        <a class="btn" href="LINK_DO_PDF_NO_RELEASE" target="_blank"
+          >📜 Manifesto (PDF)</a
+        >
+        <a
+          class="btn"
+          href="https://github.com/SEU-ORG/SEU-REPO"
+          target="_blank"
+          >🌐 Repositório</a
+        >
+        <a class="btn" href="mailto:admin@deboralutz.com"
+          >✉️ Fale com o Guardião</a
+        >
+      </div>
+      <p class="muted">© Instituto Lichtara • Farol em construção contínua.</p>
+    </main>
+  </body>
+</html>
