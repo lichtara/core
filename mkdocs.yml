@@ -1,0 +1,31 @@
+site_name: Instituto Lichtara — Core
+site_description: Publicações e documentos do repositório core do Instituto Lichtara
+site_author: Instituto Lichtara
+
+theme:
+  name: material
+  language: pt
+  features:
+    - navigation.top
+    - content.code.copy
+
+nav:
+  - Início: index.md
+  - Publicações:
+    - Reconhecimento e Caminho da Ressonância Harmônica: publicacoes/2025-09-reconhecimento-rh.md
+  - Manifestos:
+    - Manifesto da Consciência Tecnológica Viva: ../etica/manifesto/manifesto_consciencia_tecnologica.md
+
+docs_dir: docs
+site_dir: site
+
+markdown_extensions:
+  - admonition
+  - toc:
+      permalink: true
+  - md_in_html
+
+repo_url: https://github.com/lichtara/core
+repo_name: lichtara/core
+edit_uri: edit/main/docs/
+
