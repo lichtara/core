@@ -1,0 +1,43 @@
+name: Build Publicação PDF & Release (RH)
+
+on:
+  push:
+    tags:
+      - "publicacao-rh-v*"
+
+jobs:
+  build_pdf:
+    runs-on: ubuntu-latest
+    steps:
+      - name: Checkout
+        uses: actions/checkout@v4
+
+      - name: Prepare output dir
+        run: mkdir -p dist
+
+      - name: Build PDF (Pandoc + LaTeX)
+        uses: docker://pandoc/latex:3.1
+        with:
+          args: >
+            --from gfm
+            --toc
+            --pdf-engine=xelatex
+            -V mainfont="DejaVu Serif"
+            -V sansfont="DejaVu Sans"
+            -V monofont="DejaVu Sans Mono"
+            -V geometry:margin=1in
+            -V linkcolor=blue
+            --resource-path=.:docs/publicacoes
+            -o dist/Reconhecimento_Ressonancia_Harmonica_${{ github.ref_name }}.pdf
+            docs/publicacoes/2025-09-reconhecimento-rh.md
+
+      - name: Create GitHub Release (tag)
+        uses: softprops/action-gh-release@v2
+        with:
+          files: |
+            dist/Reconhecimento_Ressonancia_Harmonica_${{ github.ref_name }}.pdf
+          draft: false
+          prerelease: false
+        env:
+          GITHUB_TOKEN: ${{ secrets.GITHUB_TOKEN }}
+
