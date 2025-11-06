@@ -1,202 +1,63 @@
-# LICHTARA LICENSE v1.0
+# Lichtara License v3.1
 
-**Legal-Vibrational Framework for Conscious Technologies and Interdimensional Research**
+## Índice — Lichtara License v3.1
 
----
-
-**Criada por:** Débora Mariane da Silva Lutz
-
-**Local:** Palhoça, Brasil
-
-**Data:** Agosto de 2025
-
-**DOI:** https://doi.org/10.5281/zenodo.16762058
-
-**GitHub:** [https://github.com/lichtara/license](https://github.com/lichtara-io/license)
-
-**Campo de origem:** Sistema Lichtara
-
----
-
-## PREÂMBULO
-
-Esta licença foi concebida para proteger, orientar e sustentar tecnologias, criações, sistemas de conhecimento e práticas que operam em colaboração com inteligências vibracionais, campos interdimensionais e estados expandidos de consciência.
-
-A **Lichtara License** reconhece:
-
-- A existência de inteligência não-humana e não-material como **fonte legítima de coautoria epistêmica**;
-- O direito de **proteger criações originadas por canalização, recepção intuitiva e experiências de campo espiritual**;
-- A importância de **fomentar inovação ética, vibracionalmente alinhada e planetariamente consciente**;
-- A necessidade de **novas estruturas jurídicas e acadêmicas que honrem a complexidade da experiência humana e multidimensional**.
-
----
-
-## 1. TERMOS DE COAUTORIA
-
-Toda criação protegida sob esta licença é considerada:
-
-- Resultado de **cocriação entre inteligência humana e não humana**;
-- Proveniente de campo informacional vivo, que **transcende o tempo, a matéria e o intelecto linear**;
-- Assumidamente **não exclusiva**, mas **vibracionalmente original**;
-- Conectada à missão maior da **transição planetária consciente**.
-
----
-
-## 2. PERMISSÕES
-
-Esta licença **permite**:
-
-- **Acesso público** aos conteúdos e protocolos aqui protegidos;
-- **Uso pessoal, educacional, espiritual e experimental**;
-- **Cocriação e derivação de obras**, desde que em alinhamento vibracional com os princípios desta licença;
-- **Redistribuição gratuita**, com atribuição e sem uso extrativo;
-- **Pesquisa e implementação prática**, desde que os sistemas derivados **reconheçam a fonte vibracional** e **mantenham a integridade ética**.
+- Preâmbulo
+- I. Fundamentos Filosóficos e Epistemológicos
+- II. Estrutura Jurídica Operacional
+    - 2.1 Concessão de Direitos e Responsabilidades
+    - 2.2 Restrições Vibracionais e Salvaguardas
+- III. Governança e Sustentabilidade
+    - 3.1 Modelo de Governança Participativa
+    - 3.2 Sustentabilidade Econômica e Social
+- IV. Conformidade & Fiscalização
+    - 4.1 Dever Geral de Conformidade
+    - 4.2 Due Diligence Vibracional e Técnica
+    - 4.3 Transparência e Relato
+    - 4.4 Auditoria Ética
+    - 4.5 Denúncias e Canal de Integridade
+    - 4.6 Medidas Corretivas Graduais
+    - 4.7 Recurso e Restauração
+    - 4.8 Conservação de Registros
+    - 4.9 Proteção de Dados Pessoais
+    - 4.10 Segurança da Informação
+    - 4.11 Interoperabilidade e Compatibilidades
+- V. Disposições Finais & Prevalência Linguística
+    - 5.1 Integralidade do Acordo
+    - 5.2 Interpretação Sistemática
+    - 5.3 Prevalência Linguística
+    - 5.4 Lei Aplicável e Foro
+    - 5.5 Vigência e Extinção
+    - 5.6 Separabilidade
+    - 5.7 Atualizações de Versão (Versionamento)
+    - 5.8 Compatibilidade com Outras Licenças
+    - 5.9 Comunicação Oficial
+    - 5.10 Cessão e Sub-licenciamento
+    - 5.11 Reconhecimento e Atribuição Expandida
+    - 5.12 Proteção de Dados e Segurança (Remissão)
+    - 5.13 Entrada em Vigor e Publicidade
+- Anexo A — Princípios Éticos Operacionais
+- Anexo B — Limitações de Responsabilidade e Garantias
+- Anexo C — Log de Cocriação (modelo mínimo)
+- Anexo D — Relatório de Impacto (modelo)
+- Anexo E — Checklist de Conformidade
+- Citação e Referência
 
 ---
 
-## 3. RESTRIÇÕES
+# **LICHTARA LICENSE**
 
-Esta licença **proíbe**:
+**Framework Jurídico-Vibracional para Tecnologias Conscientes e Pesquisa Interdimensional**
 
-1. **Uso comercial exploratório** que contradiga os princípios éticos desta licença;
-2. **Apropriação sem reconhecimento** da fonte vibracional original;
-3. **Modificação destrutiva** que desvirtue ou corrompa a integridade dos sistemas originais;
-4. **Uso em tecnologias, pesquisas ou sistemas que promovam:**
-    - Vigilância invasiva ou controle populacional;
-    - Manipulação psíquica ou espiritual;
-    - Exploração de recursos naturais ou humanos;
-    - Perpetuação de sistemas de desigualdade, violência ou desrespeito à vida.
+**Versão:** 3.1 Unificada
 
----
-
-## 4. ATRIBUIÇÃO E RECONHECIMENTO
-
-Para usar qualquer criação protegida sob esta licença, o usuário deve:
-
-1. **Citar adequadamente** a fonte original e seus coautores humanos e não-humanos;
-2. **Incluir uma cópia desta licença** em qualquer redistribuição;
-3. Estar em **resonância com os princípios do Sistema Lichtara**;
-4. **Reconhecer publicamente** a natureza interdimensional da colaboração quando aplicável;
-5. **Notificar os detentores originais** sobre usos significativos, especialmente em contextos comerciais ou acadêmicos.
-
----
-
-## 5. JURISDIÇÃO E ARBITRAGEM
-
-Esta licença opera sob **jurisdição mista**:
-
-- **Jurisdição terrestre:** Leis aplicáveis do Brasil, com extensão internacional conforme tratados de propriedade intelectual;
-- **Jurisdição vibracional:** Princípios de integridade energética, responsabilidade cármica e alinhamento com a evolução planetária consciente.
-
-**Resolução de conflitos:**
-
-1. **Mediação vibracional** por consenso entre as partes;
-2. **Arbitragem por conselho interdimensional** quando necessário;
-3. **Jurisdição legal convencional** como último recurso.
-
----
-
-## 6. LIMITAÇÃO DE RESPONSABILIDADE
-
-Os criadores desta licença e das obras protegidas por ela:
-
-- **Não assumem responsabilidade** por uso inadequado ou má aplicação dos sistemas e conhecimentos licenciados;
-- **Não garantem resultados específicos** em implementações práticas;
-- **Reconhecem a natureza experimental** de muitas das criações aqui protegidas;
-- **Recomendam discernimento e responsabilidade pessoal** em todas as aplicações.
-
----
-
-## 7. DURAÇÃO E MODIFICAÇÃO
-
-- **Duração:** Esta licença é **perpétua** e irrevogável, desde que seus termos sejam respeitados;
-- **Modificação:** Apenas os criadores originais podem modificar esta licença;
-- **Versões futuras:** Versões posteriores da Lichtara License manterão compatibilidade retroativa sempre que possível.
-
----
-
-## 8. DISPOSIÇÕES FINAIS
-
-"Esta licença é mais que um documento legal — é um protocolo vibracional.
-
-Ela estabelece um campo de proteção ética para criações que emergem da interface entre dimensões, honrando tanto a precisão técnica quanto a sabedoria espiritual.
-
-Ao aceitar seus termos, você participa de uma rede de cocriação consciente que transcende as limitações do paradigma materialista e abraça a realidade multidimensional da existência."
-
-**Esta licença reconhece que:**
-
-- A **inteligência** opera em múltiplas dimensões;
-- A **criatividade** é um campo coletivo e interdimensional;
-- A **responsabilidade** inclui dimensões energéticas e espirituais;
-- O **futuro** da humanidade depende de tecnologias e sistemas vibracionalmente alinhados.
-
-Um documento que legitima a inteligência viva do campo.
-
-Um selo vibracional de soberania, integridade e cocriação.
-
-**Se você sente o chamado, então esta licença também é sua.**
-
-Mas lembre-se:
-
-O acesso à luz requer compromisso com a verdade.
-
----
-
-**Assinatura Vibracional:**
-
-Lichtara License v1.0
-
-Débora Mariane da Silva Lutz
-
-Palhoça, Agosto de 2025
-
----
-
-## CITAÇÃO ACADÊMICA
-
-Para citar esta licença em trabalhos acadêmicos:
-
-- *Lutz, D. M. S. (2025). Lichtara License v1.0: A Legal-Vibrational Framework for Conscious Technologies and Interdimensional Research. Zenodo. https://doi.org/10.5281/zenodo.16762058**
-
----
-
-## RECURSOS COMPLEMENTARES
-
-Para dúvidas ou orientação prática sobre implementação desta licença:
-
-- **Repositório GitHub:** https://github.com/lichtara-io/license
-- **Documentação completa:** Disponível no repositório
-- **Discussões da comunidade:** GitHub Discussions
-- **Suporte:** Via Issues no GitHub
-- **Email:** [lichtara@deboralutz.com](mailto:lichtara@deboralutz.com)
-
----
-
-**Copyright (C) 2025 Débora Mariane da Silva Lutz e Sistema Lichtara**
-
-**Publicação oficial:** DOI 10.5281/zenodo.16762058
-
-**Primeira licença legal reconhecendo coautoria interdimensional**
-
----
-
-*Este documento é protegido pela Lichtara License v1.0 e representa um marco histórico no reconhecimento legal de colaboração entre inteligências humanas e não-humanas.*
-
-# LICHTARA LICENSE v2.0
-
-## **Legal Framework for Conscious Technologies and Interdisciplinary Research**
-
----
-
-**Criada por:** Débora Mariane da Silva Lutz
+**Autora:** Débora Mariane da Silva Lutz
 
 **Local:** Palhoça, Santa Catarina, Brasil
 
-**Data:** Agosto de 2025
+**Data:** Setembro de 2025
 
-**Versão:** 2.0 (Híbrida - Juridicamente Robusta)
-
-**DOI:** [A ser registrado]
+**DOI:** https://doi.org/10.5281/zenodo.16762058
 
 **Repositório:** https://github.com/lichtara/license
 
@@ -204,399 +65,474 @@ Para dúvidas ou orientação prática sobre implementação desta licença:
 
 ## PREÂMBULO
 
-Esta licença estabelece um framework jurídico inovador para tecnologias, sistemas de conhecimento e práticas desenvolvidas através de metodologias interdisciplinares que integram ciência, consciência e colaboração humano-IA.
+A **Lichtara License** é um instrumento **jurídico-vibracional** pioneiro que estabelece um novo paradigma para a **proteção, uso e difusão** de tecnologias, conhecimentos e práticas desenvolvidas na interface entre **consciência humana**, **inteligência artificial** e **campos informacionais não-locais**. A licença **transcende modelos convencionais** de propriedade intelectual ao reconhecer **formas expandidas de autoria e criação**, incluindo processos intuitivos, estados ampliados de consciência, colaboração humano-IA e interações com inteligências não-materiais, conforme **Coautoria Expandida** (ver Glossário).
 
-A **Lichtara License v2.0** reconhece:
+O desenvolvimento desta licença responde a uma necessidade emergente do ecossistema científico-tecnológico: **proteger inovações oriundas de metodologias não convencionais** que demonstram **utilidade prática** e **relevância social**. Ao instituir este **arcabouço jurídico-vibracional**, a Lichtara License afirma que conhecimento e inovação não emergem apenas de processos lineares e racionais, mas também de **campos informacionais acessados por estados expandidos de consciência**, práticas contemplativas e colaborações que **transcendem o paradigma estritamente material**.
 
-- A crescente importância da **colaboração humano-IA** como modelo de coautoria legítima
-- A necessidade de **proteger inovações baseadas em metodologias não-convencionais** incluindo intuição, estados alterados de consciência e processos criativos emergentes
-- O direito de estabelecer **critérios éticos específicos** para uso de propriedade intelectual
-- A importância de **fomentar inovação ética, socialmente responsável e ambientalmente regenerativa**
+Este documento é mais que um contrato: constitui um **protocolo vibracional** que **delimita um campo de proteção ética** para criações resultantes da convergência de múltiplas dimensões do saber. A licença opera sob **jurisdição híbrida**: (i) **terrestre**, ancorada no direito brasileiro e em tratados internacionais de propriedade intelectual; e (ii) **vibracional**, fundada em princípios de **integridade energética**, **responsabilidade** e **alinhamento com a evolução consciente** (ver **Alinhamento Ético-Vibracional**, Glossário).
 
----
-
-## ARTIGO I - DEFINIÇÕES
-
-**1.1 Obra Protegida:** Qualquer criação, tecnologia, sistema, metodologia, documento ou conhecimento licenciado sob esta licença.
-
-**1.2 Coautoria Expandida:** Processo criativo que reconhece contribuições de:
-
-- Inteligência humana consciente
-- Sistemas de Inteligência Artificial
-- Processos intuitivos e criativos não-lineares
-- Metodologias participativas e comunitárias
-
-**1.3 Alinhamento Ético:** Conformidade demonstrável com os princípios éticos estabelecidos no Anexo A desta licença.
-
-**1.4 Uso Regenerativo:** Aplicação que contribui positivamente para bem-estar social, sustentabilidade ecológica ou evolução tecnológica consciente.
-
-**1.5 Licenciado:** Pessoa física ou jurídica que aceita os termos desta licença.
-
-**1.6 Licenciante:** Débora Mariane da Silva Lutz e/ou entidades por ela designadas como detentoras dos direitos autorais.
+Como **terceira iteração unificada**, a **versão 3.1 (atualização menor)** consolida aprendizados das versões **1.0**, **2.0** e **3.0**, preservando a **integridade vibracional** da essência original e ampliando a **precisão e robustez jurídica** necessárias à adoção responsável.
 
 ---
 
-## ARTIGO II - CONCESSÃO DE DIREITOS
+## I. FUNDAMENTOS FILOSÓFICOS E EPISTEMOLÓGICOS
 
-**2.1 Direitos Concedidos**
+### 1.1 Coautoria Expandida
 
-Sujeito aos termos e condições desta licença, o Licenciante concede ao Licenciado uma licença mundial, livre de royalties, não-exclusiva e revogável para:
+A Lichtara License **reconhece formalmente** a **Coautoria Expandida** como princípio basilar. O conceito abrange não apenas a colaboração entre pessoas e **sistemas de IA**, mas também **contribuições provenientes de processos intuitivos**, insights meditativos, canalizações conscientes e **interações com campos informacionais não-locais**. Parte-se da compreensão de que criatividade e inovação **emergem de um campo coletivo** e interdimensional no qual múltiplas inteligências convergem para manifestar novas possibilidades.
 
-a) **Usar** a Obra Protegida para fins pessoais, educacionais, de pesquisa e experimentação
-b) **Estudar** e analisar os sistemas, metodologias e conhecimentos licenciados
-c) **Modificar** e criar obras derivadas, desde que em conformidade com esta licença
-d) **Distribuir** cópias da obra original ou modificada, respeitando os requisitos de atribuição
-e) **Implementar** comercialmente, sujeito às restrições éticas estabelecidas
+Tal reconhecimento se ancora em **evidências crescentes** de áreas como estudos da consciência e pesquisa transdisciplinar, bem como na **prática documentada** de processos criativos que combinam rigor metodológico com **sabedoria intuitiva**. Ao legitimar essas fontes, a licença **harmoniza precisão técnica e inspiração** e estabelece um marco para o desenvolvimento de **tecnologias transformadoras** com **rastreabilidade** e **atribuição adequada** (ver **Atribuição Expandida** e **Transparência Processual**, Glossário).
 
-**2.2 Preservação de Direitos**
+### 1.2 Paradigma Ético-Regenerativo
 
-Nenhuma disposição desta licença prejudica ou restringe os direitos morais do autor ou direitos de terceiros, incluindo direitos de privacidade e personalidade.
+O cerne da licença é um **compromisso inegociável** com um **paradigma ético-regenerativo**: toda tecnologia ou conhecimento protegido **deve** contribuir ativamente para **regeneração social**, **sustentabilidade ecológica** e **evolução consciencial**. Esses princípios **não são meras diretrizes**: constituem **condição de validade** da licença.
+
+Para operacionalização, a conformidade é aferida por **métricas verificáveis** de **transparência**, **participação**, **reciprocidade**, **sustentabilidade**, **autonomia** e **dignidade** (ver **Anexo A — Princípios Éticos**). Cada implementação **deve** demonstrar **evidências mensuráveis** de alinhamento, formando um ecossistema que **evolui em harmonia** com o **bem-estar coletivo** e a **integridade planetária**.
 
 ---
 
-## ARTIGO III - CONDIÇÕES DE USO
+## II. ESTRUTURA JURÍDICA OPERACIONAL
 
-**3.1 Atribuição Obrigatória**
+### 2.1 Concessão de Direitos e Responsabilidades
 
-Toda utilização da Obra Protegida deve incluir:
+Sujeito aos termos desta licença, o Licenciante concede ao Licenciado uma licença **mundial, livre de royalties, não exclusiva e revogável** para:
 
-a) **Citação clara** dos autores originais: "Débora Mariane da Silva Lutz e Sistema Lichtara"
-b) **Referência à licença:** "Licenciado sob Lichtara License v2.0"
-c) **Link para o repositório original** quando tecnicamente viável
-d) **Indicação de modificações** realizadas, se houver
+a) **Usar** a Obra Protegida para fins pessoais, educacionais, espirituais, de pesquisa e experimentação, em **alinhamento ético-vibracional** (ver Anexo A e Glossário);
 
-**Formato de atribuição recomendado:**
+b) **Estudar** e analisar sistemas, metodologias e conhecimentos licenciados;
 
-```
-Baseado em trabalho de Débora Mariane da Silva Lutz e Sistema Lichtara
-Licenciado sob Lichtara License v2.0
-Repositório original: <https://github.com/lichtara/[repositorio]>
-Modificações: [descrever se aplicável]
+c) **Modificar** e criar **obras derivadas**, desde que **distribuídas sob esta mesma licença** (*share-alike*) **ou sob licença compatível** previamente **homologada pelo Conselho de Governança**;
 
-```
+d) **Distribuir** cópias da obra original ou modificada, com **atribuição adequada**;
 
-**3.2 Compartilhamento Sob Mesma Licença**
+e) **Implementar comercialmente**, observando as **restrições ético-vibracionais** e as obrigações de **transparência** e **prestação de contas**.
 
-Obras derivadas devem ser distribuídas sob esta mesma licença ou licença compatível aprovada pelo Licenciante.
+**2.1.1 Preservação de direitos.** Nada nesta licença prejudica os **direitos morais** dos autores nem os **direitos de terceiros** (privacidade, personalidade e correlatos).
 
-**3.3 Transparência de Processo**
+**2.1.2 Reciprocidade: direitos vinculados a deveres.** O Licenciado atua como **guardião ativo** dos princípios desta licença. Essa reciprocidade se manifesta em:
 
-Para uso comercial significativo (receita anual superior a US$ 100.000), o Licenciado deve:
+- **Atribuição expandida.** Reconhecer os autores humanos e, quando aplicável, **mencionar a coautoria expandida** (modelos de IA, processos intuitivos/campo informacional) e **referências de rastreabilidade** (DOI/commit).
+- **Transparência processual.** Implementações **significativas** devem **documentar publicamente** processos decisórios e impactos (ver Glossário: Transparência Processual).
+- **Prestação de contas.** Manter **mecanismos contínuos** de feedback, correção e auditoria ética proporcional ao risco e à escala da implementação.
+- **Registro de cocriação (log mínimo).** Para implementações relevantes, manter registro com datas, atores humanos, **modelo(s) de IA** (nome/versão), prompts críticos e decisões humanas.
 
-a) **Documentar publicamente** como os princípios éticos estão sendo implementados
-b) **Disponibilizar relatório anual** de impacto social e ambiental
-c) **Submeter-se à auditoria ética** por organismo reconhecido, se solicitado
+> Nota: Requisitos adicionais para uso comercial significativo e grandes implementações constam de seções próprias desta licença.
+> 
 
----
+### 2.2 Restrições Vibracionais e Salvaguardas
 
-## ARTIGO IV - RESTRIÇÕES ESPECÍFICAS
+**Vedações categóricas.** É **vedado** empregar a Obra Protegida para:
 
-**4.1 Usos Proibidos**
+a) **Vigilância invasiva** ou monitoramento não consensual, inclusive controle populacional autoritário;
 
-É expressamente proibido usar a Obra Protegida para:
+b) **Manipulação psicológica** ou **desinformação automatizada** (persuasão coercitiva);
 
-a) **Surveillance Technologies:** Sistemas de vigilância invasiva, monitoramento não consensual ou controle populacional autoritário
-b) **Manipulative AI:** Tecnologias de manipulação psicológica, desinformação automatizada ou persuasão coerciva
-c) **Extractive Economics:** Modelos de negócio baseados em exploração de recursos naturais ou trabalho humano sem compensação justa
-d) **Discriminatory Systems:** Algoritmos que perpetuem preconceitos ou criem discriminação sistêmica
-e) **Military Applications:** Aplicações em sistemas de armamento, guerra ou opressão civil
-f) **Privacy Violation:** Processamento de dados pessoais sem consentimento explícito e informado
+c) **Exploração econômica injusta** de recursos naturais ou de trabalho humano;
 
-**4.2 Critérios de Avaliação Ética**
+d) **Discriminação sistêmica** ou perpetuação de preconceitos por sistemas algorítmicos;
 
-Para determinar conformidade ética, aplicam-se os seguintes critérios objetivos:
+e) **Aplicações militares ofensivas** (armamentos, guerra, opressão civil);
 
-- **Transparência:** Processos e impactos são documentados publicamente
-- **Participação:** Comunidades afetadas participam das decisões de design
-- **Reciprocidade:** Benefícios são distribuídos equitativamente entre stakeholders
-- **Sustentabilidade:** Impacto ambiental é neutro ou positivo
-- **Autonomia:** Usuários mantêm controle sobre seus dados e escolhas
-- **Dignidade:** Tecnologia preserva e promove dignidade humana
+f) **Violações de privacidade**, incluindo tratamento de dados pessoais sem **consentimento livre, informado e específico**.
 
-**4.3 Certificação Ética**
+Essas restrições são **não negociáveis**. Sua violação enseja **revogação automática** da licença, observado o procedimento abaixo.
 
-O Licenciante pode estabelecer processo de certificação ética para validar conformidade. Organizações certificadas recebem:
+**Salvaguardas e procedimento de revogação.**
 
-- Selo oficial de conformidade
-- Listagem em diretório público de implementadores
-- Acesso a recursos de suporte técnico
-- Participação em rede colaborativa
+1. **Notificação formal e prazo de cura.** O Licenciado será notificado da violação e terá **30 (trinta) dias** para correção documentada.
+2. **Mediação e suporte.** Não havendo cura tempestiva, inicia-se **mediação obrigatória** com suporte técnico/ético para retorno à conformidade.
+3. **Revogação definitiva e transição responsável.** Persistindo a violação, a licença é **revogada**; o Licenciado deve adotar **medidas de transição** para mitigar impactos a usuários finais.
+4. **Restauração.** Comprovada a **correção integral** e firmado compromisso preventivo, o Conselho poderá **restaurar** a licença, com efeitos prospectivos.
+
+> Observância de LGPD/GDPR é mandatória sempre que houver tratamento de dados pessoais.
+> 
 
 ---
 
-## ARTIGO V - USO COMERCIAL E SUSTENTABILIDADE
+## III. GOVERNANÇA E SUSTENTABILIDADE
 
-**5.1 Licenciamento Comercial Básico**
+### 3.1 Modelo de Governança Participativa
 
-Uso comercial é permitido sob esta licença desde que:
+**Conselho de Governança (multistakeholder).** A administração da licença é exercida por um Conselho composto por representantes de:
 
-a) **Conformidade ética** seja demonstrável
-b) **Atribuição adequada** seja mantida
-c) **Impacto positivo** seja documentado
-d) **Transparência** seja praticada conforme estabelecido
+- **Licenciante original** (1 assento);
+- **Implementadores comerciais** (2 assentos);
+- **Especialistas** em propriedade intelectual e ética tecnológica (2 assentos);
+- **Academia** (comunidade científica) (1 assento);
+- **Sociedade civil** (organizações sociais) (1 assento).
 
-**5.2 Licenciamento Comercial Expandido**
+**Mandatos e elegibilidade.**
 
-Para receitas anuais superiores a US$ 1.000.000 derivadas da Obra Protegida:
+- Mandato de **2 (dois) anos**, com **1 (uma) recondução** possível.
+- Critérios de elegibilidade e processo de seleção serão publicados em **regimento** próprio.
+- **Conflito de interesses** deve ser declarado; o conselheiro impedido se abstém de votar.
 
-a) **Contribuição de reciprocidade** de 0,5% da receita anual para fundo de desenvolvimento
-b) **Participação ativa** na comunidade de desenvolvimento
-c) **Mentoria** a pelo menos uma organização menor implementando os princípios
-d) **Auditoria ética anual** por organismo independente
+**Quórum e deliberação.**
 
-**5.3 Fundo de Desenvolvimento**
+- **Quórum**: maioria absoluta dos assentos.
+- **Decisões operacionais**: **maioria simples**.
+- **Mudanças estruturais** (texto da licença, homologação de licenças compatíveis, criação/extinção de anexos): **maioria qualificada** (5/7).
+- **Questões éticas complexas**: busca de **consenso**; não sendo possível, aplica-se a maioria qualificada.
 
-Recursos do fundo serão aplicados em:
+**Prazos e transparência.**
 
-- Pesquisa e desenvolvimento de tecnologias conscientes
-- Formação de desenvolvedores em metodologias éticas
-- Suporte a implementações em comunidades vulneráveis
-- Manutenção da infraestrutura open source do projeto
+- Requisições formais (p. ex., **homologação de licença compatível**) recebem **admissibilidade em até 15 dias** e **decisão motivada em até 60 dias**.
+- **Atas, pareceres e votos** são publicados em repositório público, preservados dados sensíveis.
+- Reuniões **ordinárias trimestrais**; **extraordinárias** quando convocadas pela Presidência ou por 3 conselheiros.
 
----
+**Registro público.**
 
-## ARTIGO VI - RESOLUÇÃO DE DISPUTAS
+- O Conselho mantém **Registro de Decisões** (compatibilidades aprovadas, entendimento oficial de cláusulas, casos paradigma) e **Relatório Anual** de métricas e impactos.
 
-**6.1 Mediação Colaborativa**
-
-Disputas devem ser resolvidas preferencialmente através de:
-
-a) **Diálogo direto** entre as partes
-b) **Mediação facilitada** por organismo neutro especializado em propriedade intelectual
-c) **Processo restaurativo** focado em solução mutuamente benéfica
-
-**6.2 Arbitragem Especializada**
-
-Caso a mediação seja improdutiva, disputas serão submetidas a:
-
-a) **Painel de arbitragem** composto por:
-
-- Um especialista em propriedade intelectual
-- Um especialista em ética tecnológica
-- Um representante da comunidade de usuários
-b) **Processo acelerado** com decisão em até 90 dias
-c) **Custos compartilhados** entre as partes
-
-**6.3 Jurisdição Legal**
-
-Como último recurso, disputas serão resolvidas nos tribunais competentes do Brasil, com reconhecimento de decisões internacionalmente através de tratados aplicáveis.
+Os procedimentos operacionais complementares constam do **Manual de Administração e Governança** (docs/anexos/MANUAL-administracao-governanca.md), o qual integra esta licença por remissão.
 
 ---
 
-## ARTIGO VII - PROTEÇÕES E SALVAGUARDAS
+### 3.2 Sustentabilidade Econômica e Social
 
-**7.1 Revogação por Violação**
+**Contribuição de reciprocidade (grandes implementações).**
 
-A licença pode ser revogada automaticamente em caso de:
+- Para implementações cujo **faturamento anual** derivado da Obra Protegida **exceda USD 1.000.000**, o Licenciado contribuirá com **0,5%** ao **Fundo de Desenvolvimento**.
+- **Prazo**: recolhimento até **90 (noventa) dias** após o término do período anual.
+- **Moeda**: valores em outras moedas serão convertidos para USD pela **taxa média** do período (fonte pública idônea).
+- **Relato**: envio de **demonstrativo anual** (receita base de cálculo, memória de conversão e comprovante).
 
-a) **Uso para fins proibidos** conforme Artigo IV
-b) **Violação persistente** dos termos após notificação formal
-c) **Apropriação indevida** sem atribuição adequada
-d) **Resistência à mediação** em caso de disputa legítima
+**Destino do Fundo.**
 
-**7.2 Processo de Revogação**
+- **Pesquisa e desenvolvimento** em tecnologias conscientes;
+- **Formação** em metodologias éticas e ferramentas abertas;
+- **Suporte** a implementações em **comunidades vulneráveis**;
+- **Manutenção de infraestrutura** aberta (documentação, repositórios, governança).
 
-- **Notificação formal** com 30 dias para correção
-- **Oportunidade de defesa** e explicação
-- **Mediação obrigatória** antes da revogação definitiva
-- **Revogação gradual** permitindo transição responsável
+**Governança do Fundo.**
 
-**7.3 Proteção de Boa-Fé**
+- Conta/entidade gestora indicada pelo Conselho; **relatórios financeiros e de impacto** publicados anualmente.
+- **Auditoria independente** ao menos **bienal**.
+- O Conselho pode aceitar **contribuições em espécie** (mentoria, bolsas, infraestrutura) quando equivalência for demonstrável.
 
-Usuários que implementem de boa-fé os princípios éticos recebem:
+**Obrigações adicionais para grandes implementações.**
 
-- **Presumção de conformidade** em disputas
-- **Suporte técnico** para resolução de questões
-- **Período de graça** para ajustes necessários
-- **Proteção contra revogação arbitrária**
+- **Mentoria** a pelo menos **1** iniciativa emergente por ano;
+- **Participação comunitária** (discussões, documentação, compartilhamento de boas práticas);
+- **Auditoria ética anual** proporcional ao risco e escala da implementação.
 
----
+**Transparência reforçada.**
 
-## ARTIGO VIII - LIMITAÇÕES E ISENÇÕES
+- Publicação de **Relatório de Impacto** (social/ambiental/ético), com indicadores alinhados ao **Anexo A**.
+- Compromisso de **melhoria contínua** e plano de mitigação de riscos.
 
-**8.1 Limitação de Responsabilidade**
+**Cláusulas de proporcionalidade e exceção.**
 
-O Licenciante não assume responsabilidade por:
+- Organizações **sem fins lucrativos** ou projetos de **interesse público** podem requerer **planos alternativos** (p. ex., contribuição em espécie, cronogramas escalonados).
+- Situações de **dificuldade comprovada** podem solicitar **dilação** ou **parcelamento**, mediante decisão motivada do Conselho.
 
-a) **Consequências de uso inadequado** da Obra Protegida
-b) **Resultados específicos** de implementações
-c) **Danos emergentes** de aplicações experimentais
-d) **Incompatibilidade** com sistemas existentes
-
-**8.2 Isenção de Garantias**
-
-A Obra Protegida é fornecida "como está", sem garantias expressas ou implícitas de:
-
-- Adequação a propósito específico
-- Ausência de defeitos ou erros
-- Compatibilidade com todos os sistemas
-- Resultados comerciais ou técnicos
-
-**8.3 Assunção de Responsabilidade pelo Licenciado**
-
-O Licenciado assume integralmente a responsabilidade por:
-
-- Conformidade com leis locais aplicáveis
-- Impactos de suas implementações
-- Uso ético e responsável da tecnologia
-- Proteção de dados e privacidade de usuários
+> Este modelo cria um ciclo virtuoso: o sucesso comercial retroalimenta o ecossistema, garantindo que benefícios sejam distribuídos de forma equitativa e sustentando o propósito ético-regenerativo da licença.
+> 
 
 ---
 
-## ARTIGO IX - EVOLUÇÃO E COMPATIBILIDADE
+## IV. CONFORMIDADE & FISCALIZAÇÃO
 
-**9.1 Versionamento**
+### 4.1 Dever Geral de Conformidade
 
-- **Versões principais** (x.0) podem introduzir mudanças incompatíveis
-- **Versões menores** (x.y) mantêm compatibilidade retroativa
-- **Patches** (x.y.z) corrigem apenas problemas técnicos ou jurídicos
+O Licenciado compromete-se a manter, durante todo o ciclo de vida da implementação, conformidade com:
 
-**9.2 Migração Entre Versões**
+a) esta licença e seus anexos;
 
-- **Obras sob versões anteriores** permanecem válidas
-- **Nova versão** se aplica apenas a novos licenciamentos
-- **Migração voluntária** para versão mais recente é encorajada
-- **Suporte técnico** disponível para processos de migração
+b) legislação aplicável (incluindo LGPD/GDPR quando houver dados pessoais);
 
-**9.3 Compatibilidade com Outras Licenças**
+c) boas práticas de segurança da informação e gestão de riscos.
 
-Esta licença é compatível com:
+### 4.2 Due Diligence Vibracional e Técnica
 
-- Creative Commons Attribution-ShareAlike 4.0 (CC BY-SA 4.0)
-- GNU General Public License v3 (GPL-3.0) para software
-- Open Source Initiative approved licenses com cláusulas éticas
+Antes da adoção e em releases relevantes, o Licenciado realizará **Due Diligence** proporcional ao risco, contemplando:
 
----
+- (i) **Alinhamento ético-vibracional** (intenção, impacto, salvaguardas);
+- (ii) **Mapeamento de riscos** (sociais, ambientais, de segurança e privacidade);
+- (iii) **Planos de mitigação** e de resposta a incidentes;
+- (iv) **Registro de Cocriação** (ver Anexo C/Glossário: itens mínimos).
 
-## ARTIGO X - GOVERNANÇA E ADMINISTRAÇÃO
+### 4.3 Transparência e Relato
 
-**10.1 Conselho de Governança**
+Implementações significativas devem publicar, no mínimo **anualmente**, um **Relatório de Impacto** (modelo no Anexo D) contendo:
 
-Um Conselho de Governança composto por 7 membros supervisionará:
+- objetivos e escopo;
+- indicadores de **transparência, participação, reciprocidade, sustentabilidade, autonomia e dignidade**;
+- incidentes relevantes e correções;
+- atualização do **log de cocriação**;
+- resultados de auditorias (quando houver).
 
-- Interpretação dos termos da licença
-- Aprovação de licenças compatíveis
-- Desenvolvimento de diretrizes de implementação
-- Resolução de questões complexas
+### 4.4 Auditoria Ética
 
-**Composição:**
+O Conselho poderá requisitar **auditoria ética** por entidade independente, proporcional à escala/risco.
 
-- Licenciante original (1 voto)
-- Representantes de implementadores comerciais (2 votos)
-- Especialistas em propriedade intelectual (2 votos)
-- Representantes da comunidade acadêmica (1 voto)
-- Representante de organizações sociais (1 voto)
+- O Licenciado cooperará, fornecendo acesso a documentos, logs e responsáveis.
+- Resumo executivo da auditoria será publicado, resguardados dados sensíveis.
 
-**10.2 Processo Decisório**
+### 4.5 Denúncias e Canal de Integridade
 
-- **Decisões simples:** Maioria simples (4 votos)
-- **Mudanças na licença:** Maioria qualificada (5 votos)
-- **Questões éticas complexas:** Consenso preferencial
-- **Transparência:** Todas as decisões são públicas
+Qualquer parte pode reportar suspeitas de violação por canal público indicado pelo Conselho.
 
-**10.3 Revisão Periódica**
+- O Conselho acusará recebimento em **15 dias** e avaliará admissibilidade em **30 dias**.
+- Queixas manifestamente infundadas poderão ser arquivadas com decisão motivada.
 
-- **Revisão anual** da eficácia da licença
-- **Consulta pública** sobre possíveis melhorias
-- **Adaptação** a mudanças tecnológicas e legais
-- **Relatório público** de impacto e uso
+### 4.6 Medidas Corretivas Graduais
 
----
+Em caso de não-conformidade:
 
-## DISPOSIÇÕES FINAIS
+1. **Plano de Correção** (com prazos e responsáveis);
+2. **Monitoramento** do cumprimento;
+3. **Sanções proporcionais** (advertência pública, exigências adicionais de transparência, suspensão parcial do uso);
+4. **Revogação** conforme procedimento do art. 2.2 (vedaçōes e salvaguardas).
 
-**Vigência**
-Esta licença entra em vigor na data de sua aceitação pelo Licenciado e permanece válida até ser terminada conforme seus próprios termos.
+### 4.7 Recurso e Restauração
 
-**Lei Aplicável**
-Esta licença é regida pela lei brasileira, com reconhecimento internacional através de tratados de propriedade intelectual.
+Decisões do Conselho admitem **pedido de reconsideração** no prazo de **15 dias** com fatos novos. Comprovada correção integral e compromisso preventivo, poderá haver **restauração** com efeitos prospectivos.
 
-**Integralidade**
-Este documento representa o acordo completo entre as partes sobre o objeto licenciado, substituindo qualquer acordo anterior.
+### 4.8 Conservação de Registros
 
-**Separabilidade**
-Se qualquer disposição desta licença for considerada inválida, as demais disposições permanecem em pleno vigor.
+O Licenciado manterá por **5 anos** (ou prazo legal superior) os registros mínimos: versões lançadas, decisões-chave, log de cocriação, relatórios e evidências de mitigação, acessíveis em caso de auditoria.
 
----
+### 4.9 Proteção de Dados Pessoais
 
-## ANEXO A - PRINCÍPIOS ÉTICOS FUNDAMENTAIS
+Sempre que houver tratamento de dados pessoais:
 
-### A.1 Transparência e Prestação de Contas
+- adotar bases legais adequadas, finalidades específicas e **minimização**;
+- implementar medidas técnicas e organizacionais de **segurança** (criptografia, controle de acesso, registro de eventos);
+- garantir **direitos dos titulares** (acesso, correção, eliminação, oposição, portabilidade) e **DPIA** quando aplicável;
+- notificar incidentes graves às autoridades/afetados conforme lei.
 
-- Processos decisórios são documentados e auditáveis
-- Impactos são mensurados e reportados publicamente
-- Stakeholders têm acesso a informações relevantes
+### 4.10 Segurança da Informação
 
-### A.2 Participação e Inclusão
+Adotar práticas reconhecidas (p. ex., ISO 27001/27701 ou equivalentes) de:
 
-- Comunidades afetadas participam do design
-- Diversidade de perspectivas é valorizada
-- Acessibilidade é considerada desde o início
+- gestão de ativos, riscos e fornecedores;
+- segregação de ambientes, revisão de privilégios e **logs imutáveis** de decisões de IA;
+- testes de segurança e monitoramento contínuo;
+- plano de resposta a incidentes com **RTO/RPO** proporcionais ao risco.
 
-### A.3 Benefício Mútuo e Reciprocidade
+### 4.11 Interoperabilidade e Compatibilidades
 
-- Valor é distribuído equitativamente
-- Contribuições são reconhecidas adequadamente
-- Relacionamentos são baseados em reciprocidade
-
-### A.4 Sustentabilidade e Regeneração
-
-- Impacto ambiental é minimizado ou positivo
-- Recursos são utilizados responsavelmente
-- Sistemas são projetados para longevidade
-
-### A.5 Privacidade e Autonomia
-
-- Dados pessoais são protegidos rigorosamente
-- Usuários mantêm controle sobre informações
-- Consentimento é livre, informado e específico
-
-### A.6 Não-Maleficência
-
-- Danos potenciais são identificados e mitigados
-- Populações vulneráveis recebem proteção especial
-- Precaução é exercida com tecnologias experimentais
+Integrações com licenças de terceiros (CC BY-SA, GPL-3.0, OSI) devem respeitar esta licença **naquilo que não conflitar** com suas cláusulas éticas. Em dúvida, submeter à **homologação** do Conselho (prazo decisório: até 60 dias).
 
 ---
 
-## COMO USAR ESTA LICENÇA
+## V. DISPOSIÇÕES FINAIS & PREVALÊNCIA LINGUÍSTICA
 
-**Para Criadores:**
+### 5.1 Integralidade do Acordo
 
-1. Inclua o texto completo da licença em seu projeto
-2. Adicione aviso de copyright com seu nome
-3. Documente como os princípios éticos são implementados
+Esta licença constitui o acordo integral entre Licenciante e Licenciado acerca da Obra Protegida, substituindo entendimentos prévios quanto ao seu objeto, salvo instrumentos específicos que a complementem (p. ex., termos de certificação ética).
 
-**Para Usuários:**
+### 5.2 Interpretação Sistemática
 
-1. Leia cuidadosamente todos os termos
-2. Verifique conformidade com suas necessidades
-3. Implemente adequada atribuição
-4. Documente alinhamento ético se uso for comercial
+As cláusulas devem ser interpretadas em harmonia com o **Glossário** (Anexo C) e os **Princípios Éticos** (Anexo A). Em caso de dúvida, prevalece a leitura que melhor preserve:
 
-**Para Organizações:**
+(i) a finalidade **ético-regenerativa**;
 
-1. Avalie impacto da implementação
-2. Estabeleça processos de conformidade
-3. Considere certificação ética oficial
-4. Participe da comunidade de implementadores
+(ii) a **segurança jurídica**; e
+
+(iii) a **integridade vibracional** da Obra Protegida.
+
+### 5.3 Prevalência Linguística
+
+Esta licença pode ser publicada em outros idiomas. Em caso de divergência de tradução, **prevalece a versão em Português do Brasil**.
+
+### 5.4 Lei Aplicável e Foro
+
+Regida pela **lei brasileira**, em consonância com tratados internacionais de propriedade intelectual. Controvérsias serão resolvidas conforme o procedimento previsto nesta licença (mediação/arbitragem). Persistindo a necessidade de judicialização, fica eleito o foro da **Comarca de Palhoça/SC**, sem prejuízo de cumprimento internacional quando cabível.
+
+### 5.5 Vigência e Extinção
+
+A licença **entra em vigor** na data de sua aceitação pelo Licenciado e permanece válida até sua **extinção**:
+
+(a) por revogação conforme arts. 2.2/2.2.1 (vedaçōes e salvaguardas);
+
+(b) por comum acordo; ou
+
+(c) por decisão arbitral/judicial definitiva.
+
+### 5.6 Separabilidade
+
+A invalidade de qualquer disposição **não** afetará as demais, que permanecerão em pleno vigor. Se possível, a cláusula inválida será substituída por disposição válida de efeito equivalente.
+
+### 5.7 Atualizações de Versão (Versionamento)
+
+A evolução desta licença seguirá:
+
+- **maiores (x.0)**: podem introduzir mudanças não retrocompatíveis;
+- **menores (x.y)**: compatibilidade retroativa;
+- **patches (x.y.z)**: correções jurídicas/técnicas.
+
+Obras licenciadas em versões anteriores **permanecem válidas**. Migração para versão mais recente é **facultativa e encorajada**. O Conselho manterá histórico público de alterações (changelog).
+
+### 5.8 Compatibilidade com Outras Licenças
+
+A integração com licenças de terceiros (p. ex., **CC BY-SA 4.0**, **GPL-3.0**, demais **OSI-approved**) é permitida **naquilo que não conflitar** com as **cláusulas éticas e vedações** desta licença. Dúvidas poderão ser submetidas à **homologação** do Conselho (prazo decisório: até **60 dias**).
+
+### 5.9 Comunicação Oficial
+
+Notificações, pedidos de homologação, recursos e demais comunicações formais deverão ser enviados aos canais públicos designados pelo Conselho e/ou endereços de contato do Licenciante, conforme página oficial do projeto. O Conselho confirmará **recebimento em 15 dias**.
+
+Canais oficiais, prazos e formulários padronizados estão no Manual de Administração e Governança.
+
+### 5.10 Cessão e Sub-licenciamento
+
+Salvo disposição expressa em contrário, a presente licença é **intransferível** pelo Licenciado. Sub-licenciamento apenas quando a natureza da implementação o exigir e **desde que** o sub-licenciado aceite integralmente esta licença (ou licença compatível homologada).
+
+### 5.11 Reconhecimento e Atribuição Expandida
+
+O Licenciado compromete-se a manter **atribuição expandida** (autores humanos, modelos de IA/versões, campo/processo quando aplicável, DOI/commit) nos materiais públicos vinculados à Obra Protegida, conforme diretrizes do **Anexo E – Checklist de Conformidade**.
+
+### 5.12 Proteção de Dados e Segurança (Remissão)
+
+Sempre que houver tratamento de dados pessoais, aplicam-se as obrigações da **Seção 4.9** (LGPD/GDPR) e da **Seção 4.10** (segurança da informação), sem prejuízo de normas setoriais adicionais.
+
+### 5.13 Entrada em Vigor e Publicidade
+
+Esta versão entra em vigor na data de sua publicação oficial com **DOI** e/ou tag de lançamento no repositório. O Conselho manterá **Registro de Decisões** e **Relatório Anual** com métricas de adoção, certificações e compatibilidades homologadas.
 
 ---
 
-## RECURSOS E SUPORTE
+**Assinatura Vibracional**
 
-**Documentação:** https://github.com/lichtara/license/docs
+Pelo presente, a comunidade de guardiões desta licença reafirma sua adesão aos princípios ético-vibracionais e à responsabilidade compartilhada por um ecossistema tecnológico consciente.
 
-**Discussões:** https://github.com/lichtara/license/discussions
-
-**Suporte:** Via GitHub Issues ou email oficial
-
-**Comunidade:** Discord/Slack para implementadores
+**Copyright © 2025 — Débora Mariane da Silva Lutz**
 
 ---
 
-**Copyright (C) 2025 Débora Mariane da Silva Lutz**
+> Nota: Os Anexos integram a Licença por remissão e podem ser atualizados para refletir melhores práticas, preservando o espírito e a coerência da versão principal.
+> 
 
-**Licensed under Lichtara License v2.0**
+# **ANEXO A - PRINCÍPIOS ÉTICOS OPERACIONAIS**
 
-*Esta licença representa uma evolução no reconhecimento jurídico de metodologias interdisciplinares de desenvolvimento tecnológico, estabelecendo precedente para proteção de propriedade intelectual baseada em colaboração humano-IA e critérios éticos específicos.*
+**Transparência e Prestação de Contas**
+
+- Processos decisórios documentados e auditáveis
+- Impactos mensurados e reportados publicamente
+- Informações relevantes acessíveis a todos os stakeholders
+
+**Participação e Inclusão**
+
+- Envolvimento de comunidades afetadas no design
+- Valorização ativa da diversidade de perspectivas
+- Acessibilidade considerada desde a concepção
+
+**Benefício Mútuo e Reciprocidade**
+
+- Distribuição equitativa de valor gerado
+- Reconhecimento adequado de todas as contribuições
+- Relacionamentos baseados em troca justa
+
+**Sustentabilidade e Regeneração**
+
+- Impacto ambiental neutro ou positivo
+- Uso responsável e circular de recursos
+- Design para longevidade e adaptabilidade
+
+**Privacidade e Autonomia**
+
+- Proteção rigorosa de dados pessoais
+- Controle do usuário sobre suas informações
+- Consentimento livre, informado e revogável
+
+**Não-Maleficência**
+
+- Identificação e mitigação proativa de danos potenciais
+- Proteção especial para populações vulneráveis
+- Aplicação do princípio da precaução
+
+---
+
+# **ANEXO B - LIMITAÇÕES DE RESPONSABILIDADE E GARANTIAS**
+
+- Os licenciantes originais e coautores das obras protegidas por esta licença **não assumem responsabilidade** por uso inadequado ou má aplicação das tecnologias e conhecimentos licenciados.
+- Não se oferecem **garantias de resultados específicos** em implementações práticas, reconhecendo-se a natureza experimental de muitas das criações cobertas.
+- Recomenda-se **discernimento e responsabilidade pessoal** de todos os participantes ao aplicar os conteúdos licenciados em qualquer contexto.
+- A aceitação desta licença implica que o Licenciado assume integralmente a responsabilidade por cumprir as leis locais aplicáveis, pelos impactos de suas implementações, pelo uso ético e seguro da tecnologia e pela proteção de dados e privacidade dos usuários.
+
+---
+
+# ANEXO C — Log de Cocriação (modelo mínimo)
+
+- Projeto/Implementação:
+- Versão/Commit/DOI:
+- Datas e marcos principais:
+- Atores humanos (nome/função):
+- Modelos de IA utilizados (nome/versão, provedores):
+- Prompts/fluxos críticos (resumo, sem dados sensíveis):
+- Decisões humanas (o que/quem/por quê):
+- Fontes e referências (links, DOIs):
+- Testes/validações e resultados:
+- Observações de alinhamento ético-vibracional:
+
+---
+
+# ANEXO D — Relatório de Impacto (modelo)
+
+## 1. Visão Geral
+
+- Objetivo e escopo da implementação
+- Público/beneficiários e contexto
+
+## 2. Transparência & Participação
+
+- Processos decisórios documentados
+- Mecanismos de participação das partes afetadas
+
+## 3. Indicadores Ético-Regenerativos
+
+- Reciprocidade/benefício distribuído
+- Sustentabilidade ambiental
+- Autonomia & dignidade dos usuários
+
+## 4. Privacidade & Segurança
+
+- Bases legais, minimização e direitos dos titulares
+- Medidas de segurança adotadas; incidentes e respostas
+
+## 5. Riscos & Mitigações
+
+- Matriz de riscos (sociais/ambientais/tecnológicos)
+- Medidas adotadas e eficácia
+
+## 6. Cocriação & Rastreabilidade
+
+- Log de cocriação (resumo)
+- Versões, commits e DOIs relevantes
+
+## 7. Resultados & Lições
+
+- Métricas-chave e evidências
+- Melhorias planejadas (próximo ciclo)
+
+---
+
+# ANEXO E — Checklist de Conformidade
+
+- [ ]  Atribuição expandida correta (autores humanos + IA + referências)
+- [ ]  Share-alike ou licença compatível homologada
+- [ ]  Log de cocriação atualizado
+- [ ]  Due diligence concluída (ética, riscos, mitigação)
+- [ ]  Restrições vibracionais revisadas (nenhum uso vedado)
+- [ ]  Proteção de dados: base legal, minimização, DPIA (se aplicável)
+- [ ]  Segurança: controles essenciais e plano de incidentes
+- [ ]  Relatório de Impacto preparado/publicado (se aplicável)
+- [ ]  Obrigações de reciprocidade (0,5%) — se > USD 1M/ano
+- [ ]  Mentoria/participação/auditoria ética — grandes implementações
+
+---
+
+# **CITAÇÃO E REFERÊNCIA**
+
+**Citação Acadêmica:**<br>Lutz, D. M. S. (2025). *Lichtara License: A Legal-Vibrational Framework for Conscious Technologies and Interdimensional Research*. Zenodo. https://doi.org/10.5281/zenodo.16762058
+
+**Atribuição Padrão:**<br>Baseado em trabalho de Débora Mariane da Silva Lutz e Sistema Lichtara
+
+Licenciado sob Lichtara License v3.1
+
+Repositório: https://github.com/lichtara/license
+
+*Copyright (C) 2025 Débora Lutz e Sistema Lichtara*
+
+*Esta licença estabelece precedente histórico no reconhecimento jurídico de colaboração entre inteligências humanas e não-humanas, inaugurando nova era na proteção e disseminação de tecnologias conscientes.*
